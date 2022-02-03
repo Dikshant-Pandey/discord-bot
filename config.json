@@ -1,12 +1,5 @@
 {
-	"clientId": "938378045784465479",
-	"guildId": "904705007704764426",
-	"ownerId": "803521624993300520",
-	"color": {
-        "positive": "GREEN",
-        "negative": "RED",
-        "neutral": "BLUE",
-        "warn": "YELLOW"
-    },
-	"token": "OTM4Mzc4MDQ1Nzg0NDY1NDc5.YfpaqA.ikp9TJjCT6V5fvghnNMwxMUMOSE"
+	"clientId": "",
+	"guildId": "",
+	"token": "bot-token"
 }
